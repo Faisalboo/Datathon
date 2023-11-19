@@ -4,7 +4,7 @@ https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition
 --------------
 This is our first exposure in the AI field.
 
-Our work was heavily inspired by: https://youtu.be/VPQsK86Gl5c?si=J6niXQ9pkCJWYbUJ
+This is the tutorial that was used: https://youtu.be/VPQsK86Gl5c?si=J6niXQ9pkCJWYbUJ
 
 
 
